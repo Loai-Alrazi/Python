@@ -13,4 +13,4 @@ Welcome to my Data Science journey! This folder is a collection of projects cove
 
 ## 🎓 Education & Sources
 - **Kaggle**: Primary source for datasets.
-- **Dr. Mustafa Mahmoud**: Theoretical and mathematical foundations.
+- **Eng. Mustafa Osman**: Theoretical and mathematical foundations.
