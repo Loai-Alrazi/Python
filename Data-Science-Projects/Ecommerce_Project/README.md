@@ -3,12 +3,18 @@
 A Machine Learning application designed to predict the yearly amount spent by e-commerce customers based on their digital behavior patterns. This tool helps businesses make data-driven decisions by analyzing user engagement on mobile apps and websites.
 
 ## 🚀 Live Demo
-**[Click here to try the App]** *(Add your Hugging Face Space link here later)*
+**[Click here to try the App]** *(  )*
 
 ## 🧐 About the Project
 This project leverages **Linear Regression** to analyze customer data and predict future spending. It takes into account various factors such as session length, time spent on the application, and length of membership.
 
-The model was trained on an E-commerce dataset, achieving high accuracy in understanding the correlation between user activity and revenue.
+## 📂 Dataset
+The dataset used in this project was sourced from **Kaggle**. It contains anonymized information about customers of an E-commerce company, including:
+* Avg. Session Length
+* Time on App
+* Time on Website
+* Length of Membership
+* Yearly Amount Spent (Target Variable)
 
 ## ⚙️ Key Features
 * **Real-time Prediction:** Get instant results based on user input.
@@ -39,12 +45,6 @@ The model was trained on an E-commerce dataset, achieving high accuracy in under
     ```bash
     python app.py
     ```
-
-## 📂 Project Structure
-* `ecommerce_customers.ipynb`: The notebook containing data analysis, visualization, and model training.
-* `app.py`: The main script for the Gradio web application.
-* `linear_regression_model.pkl`: The pre-trained machine learning model.
-* `requirements.txt`: List of required Python libraries.
 
 ## 👤 Author
 **Loay Alrazi** - Data Scientist & IT Specialist
