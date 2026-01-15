@@ -1,5 +1,4 @@
 # My Python & Data Science Journey 🚀
-[![wakatime](https://wakatime.com/badge/user/973b4ede-d7f1-4f97-a623-43e291611f47/project/a828edf7-207f-4f62-9170-5e5c004b16a7.svg)](https://wakatime.com/badge/user/973b4ede-d7f1-4f97-a623-43e291611f47/project/a828edf7-207f-4f62-9170-5e5c004b16a7)
 
 This repository is a comprehensive collection of my learning path, projects, and certifications in Python development and Data Science.
 
